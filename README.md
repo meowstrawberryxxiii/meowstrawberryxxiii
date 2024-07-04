@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @meowstrawberryxxiii
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning reactJs, laravel, tailwind css
-- 💞️ I’m looking to collaborate on ...
 - 😄 Pronouns: she/her
